@@ -1,0 +1,55 @@
+Programming Language
+101010101010101010 = Binary
+
+C/C++/Java => 
+
+Python => English
+Interpreter
+
+concatenation => join two or more strings = ""/''
+
+
+Data Types => type of data
+Number
+- Integer - 
+- Float - 
+- Double - 
+Strings - ""/''
+
+Bytes => Binary
+
+List
+Tuples
+Dictionary
+Sets
+
+Primitive Data Type
+int, float, string = Fixed Memory Size
+
+Reference Data Type
+object,array,class = Dynamic Memory size
+
+In Python => Everything is object
+Reference(address) Data Type
+int, string, float object, array
+
+Object => unique identity
+
+.py
+Compiler => convert program into byte code
+now byte code will be executed
+execute whole code in one go
+
+
+Interpreter
+execute code line by line
+
+ASCII
+
+
+
+
+
+
+
+
