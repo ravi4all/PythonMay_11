@@ -18,7 +18,10 @@ def outer():
     # inner_1()
     # inner_2()
     # inner_3()
-    return inner_2
+    return inner_1, inner_2, inner_3
 
-func_1 = outer()
-func_1()
+# func_1 = outer()
+# func_1()
+
+functions = outer()
+functions[2]()
