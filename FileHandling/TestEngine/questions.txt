@@ -1,0 +1,5 @@
+1. When was Python Introduced ?
+2. Which is python latest stable version ?
+3. Which keyword is used to skip current iteration ?
+4. How many values can a function return ?
+5. Which data type is immutable in these ?
